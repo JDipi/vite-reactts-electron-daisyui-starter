@@ -1,4 +1,4 @@
-# Vite + React + Typescript + Electron - Starter
+# Vite + React + Typescript + Tailwind + DaisyUI + Electron - Starter
 
 ![Vite + React + Typescript + Tailwind + Electron Starter](Screenshot.jpg)
 
